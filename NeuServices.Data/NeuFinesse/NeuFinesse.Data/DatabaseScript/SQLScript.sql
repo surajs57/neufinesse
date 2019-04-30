@@ -1,0 +1,4 @@
+insert into Interest(InterestName,InterestImage) values('Beauty And Grooming','BeautyAndGrooming.png'),('Care Takers','CareTakers.png'),('Cooking','Cooking.png'),('Dance','Dance.png'),('Desserts','Desserts.png'),('Education','Education.png'),('Embroidery','Embroidery.png'),
+											('Event Planners','EventPlanners.png'),('Florist','Florist.png'),('Glass Craft','GlassCraft.png'),('Graphic Designer','GraphicDesigner.png'),('Jewellery','Jewellery.png'),('Knitting','Knitting.png'),
+											('Martial Arts','MartialArts.png'),('Music','Music.png'),('Paper Craft','PaperCraft.png'),('Pet Care','PetCare.png'),('Photography','Photography.png'),('Pickling','Pickling.png'),('Pottery','Pottery.png'),
+											('Print Designer','PrintDesigner.png'),('Sculpture Design','SculptureDesign.png'),('Sports','Sports.png'),('Tailoring','Tailoring.png'),('Wax Craft','WaxCraft.png'),('Woodcraft','Woodcraft.png'),('Baby Sitters','BabySitters.png');

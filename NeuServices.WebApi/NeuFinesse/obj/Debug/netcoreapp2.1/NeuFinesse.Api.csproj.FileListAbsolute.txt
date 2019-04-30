@@ -1,0 +1,17 @@
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.csprojAssemblyReference.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.RazorAssemblyInfo.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.RazorAssemblyInfo.cs
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.AssemblyInfoInputs.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.AssemblyInfo.cs
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Api.deps.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Api.runtimeconfig.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Api.runtimeconfig.dev.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Api.dll
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Api.pdb
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\bin\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.RazorTargetAssemblyInfo.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.csproj.CopyComplete
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.dll
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.WebApi\NeuFinesse\obj\Debug\netcoreapp2.1\NeuFinesse.Api.pdb

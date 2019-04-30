@@ -1,0 +1,33 @@
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.deps.json
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csproj.CoreCompileInputs.cache
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfoInputs.cache
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfo.cs
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csprojAssemblyReference.cache
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.json
+D:\NeuFinesse\NeuFinesse - Copy - Copy\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.dev.json
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.deps.json
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.json
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.dev.json
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csprojAssemblyReference.cache
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csproj.CoreCompileInputs.cache
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfoInputs.cache
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfo.cs
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+D:\Intern\NeuFinesse\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.deps.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.runtimeconfig.dev.json
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\bin\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfoInputs.cache
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.AssemblyInfo.cs
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.dll
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.pdb
+C:\Users\suraj\Documents\Visual Studio 2017\NeuFinesse\NeuServices.Data\NeuFinesse\NeuFinesse.Data\obj\Debug\netcoreapp2.1\NeuFinesse.Data.csprojAssemblyReference.cache
